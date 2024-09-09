@@ -1,7 +1,7 @@
 let places = [
   {
       id: "1",
-      name: "Gov House",
+      name: "Malam Musa Tsangaya",
       area: "Bolari",
       state: "Gombe",
       lat: 10.281837929897305, 
@@ -9,7 +9,7 @@ let places = [
   },
   {
       id: "2",
-      name: "CBN",
+      name: "King Orphanage",
       area: "Buba Shongo",
       state: "Gombe", 
       lat: 10.292714531741417, 
@@ -17,7 +17,7 @@ let places = [
   },
   {
       id: "3",
-      name: "GSU",
+      name: "Malam Sambo Tsangaya",
       area: "Tudun Wada",
       state: "Gombe",
       lat: 10.30451430788377, 
@@ -25,7 +25,7 @@ let places = [
   },   
   {
       id: "4",
-      name: "Mal. Buba school",
+      name: "Mal. Buba Tsangaya",
       area: "Bolari",
       state: "Gombe",
       lat: 10.279520330231096,
